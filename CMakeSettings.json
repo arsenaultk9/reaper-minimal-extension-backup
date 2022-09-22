@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "installRoot": "C:\\Users\\Proprio\\AppData\\Roaming\\REAPER\\UserPlugins",
+      "inheritEnvironments": []
+    },
+    {
+      "name": "x64-Debug",
+      "generator": "Ninja",
+      "configurationType": "Debug",
+      "buildRoot": "${projectDir}\\out\\build\\${name}",
+      "installRoot": "C:\\Users\\Proprio\\AppData\\Roaming\\REAPER",
+      "cmakeCommandArgs": "",
+      "buildCommandArgs": "",
+      "ctestCommandArgs": "",
+      "inheritEnvironments": [ "msvc_x64_x64" ]
+    }
+  ]
+}
