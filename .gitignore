@@ -36,3 +36,12 @@
 
 # CMake
 out
+# Build artifacts
+/build
+/out
+
+# External files
+/vendor
+
+# visual studio 2022
+.vs
